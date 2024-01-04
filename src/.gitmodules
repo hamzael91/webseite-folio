@@ -1,0 +1,3 @@
+[submodule "src/.gitmodules"]
+  path = src/
+  url = https://github.com/hamzael91/webseite-folio.git
